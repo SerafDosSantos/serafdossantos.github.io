@@ -23,7 +23,7 @@
             {% for language in site.languages %}
               <li>
                 {% if page.language == language %}
-                  <a class="dropdown-item" title="{% tl language %}">{% tl language %}</a>
+                  <a class="dropdown-item" title="{% language %}">{% tl language %}</a>
                 {% else %}
                   <a href="{{ site.baseurl }}/{{ language }}/" title="{% tl language %}">{% tl language %}</a>
                 {% endif %}
