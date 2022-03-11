@@ -3,7 +3,7 @@ layout: post
 title: Maîtriser Bitcoin
 author: Seraf Dos Santos
 description: My experience translating Mastering Bitcoin by Andreas M. Antonopoulos
-locale: en_US
+locale: en
 image: /assets/images/MB2EO-MY-BANNER_GITHUB.png
 ---
 
