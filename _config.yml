@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Seraf's Blog
+longtitle:        Serafim Dos Santos' Blog
+author:           Seraf Dos Santos
+email:            info@seraf.me
 description: >
-  Build Jekyll site with the GitBook style.
+  My blog on IT and web 2.0 & 3.0 stuff
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://www.seraf.me'
+baseurl:          ''
 rss:              RSS
 
 toc:
