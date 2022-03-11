@@ -23,3 +23,14 @@ You'll find diverse articles about different subjects but most being about IT, c
 | [www.seraf.me/public-apis/](https://www.seraf.me/public-apis/) | Public APIs list |
 | [www.seraf.me/MesBlocNotes/](https://www.seraf.me/MesBlocNotes/) | Notebooks on web 3.0 (fr) |
 | [astrotarot.ca](https://astrotarot.ca/) | Little Tarot & Oracle web app |
+
+### Latest Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>

@@ -48,7 +48,13 @@ collections:
 destination:      ./_site
 incremental:      false
 regenerate:       true
-
+  
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-mermaid
+
+gems:
+  [ jekyll-mermaid ]
