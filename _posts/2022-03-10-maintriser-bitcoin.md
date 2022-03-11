@@ -5,7 +5,6 @@ author: Seraf Dos Santos
 description: My experience translating Mastering Bitcoin by Andreas M. Antonopoulos
 locale: en_US
 image: /assets/images/MB2EO-MY-BANNER_GITHUB.png
-mermaid: true
 ---
 
 I started translating the magnificent book _Mastering Bitcoin, 2nd Open Edition_ by Andreas M. Antonopoulos at the end of February 2022. The task is relatively simple as most of the tasks are automated through the computer-assisted translation platform--transifex.com (via Google Translate API I think).
