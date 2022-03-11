@@ -1,0 +1,21 @@
+fr:
+  lang: 
+    en: Amglais
+    fr: Fran&ccedil;ais
+  site:
+    name: Serafim Dos Santos
+    description: Mon site
+  home:
+    welcome: Bonjour l&agrave; 👋
+    intro: Bienvenu sur ma page.
+
+en:
+  lang: 
+    en: English
+    fr: French
+  site:
+    name: Serafim Dos Santos
+    description: My Site
+  home:
+    welcome: Hi There 👋
+    intro: Welcom to my page.
