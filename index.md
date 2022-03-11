@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Seraf's Blog
 ---
 
 ## Welcome to my sitebook!
