@@ -56,5 +56,5 @@ plugins:
   - jekyll-seo-tag
   - jekyll-mermaid
 
-gems:
-  [ jekyll-mermaid ]
+#gems:
+#  [ jekyll-mermaid ]
