@@ -8,6 +8,7 @@ description: >
 
 version:          1.0
 gitbook_version:  3.2.3
+twitter: serafdossantos
 
 url:              'https://www.seraf.me'
 baseurl:          ''
