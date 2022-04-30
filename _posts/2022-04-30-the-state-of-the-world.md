@@ -24,7 +24,7 @@ What is missing? The return of the Matriarcal Era in about 4 500 years from now 
 
 The image above presents the state of our time in our Christ Era (Pisces) in this Holy year of 2022... If I can so speakely say in an enthousiasmic christian tone.
 
-> But I'm Luciferean... I LOVE TO MUCH(!) Death Metal.
+> But I'm Luciferean... I LOVE TO MUCH(!) Death Metal. 🤘🤘🤘
 
 ---
 
